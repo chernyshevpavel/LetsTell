@@ -1,0 +1,1536 @@
+{
+  "body": [
+    {
+      "authors_count": 3,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-09-17 05:23",
+      "first_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "d3f754cb-62c0-4504-a6ed-ebd32bdd4269",
+              "name": "Noorpur",
+              "avatar": null
+            }
+          }
+        ],
+        "id": "57ad3b21-9161-4985-9ed8-8f2d98efd129",
+        "author": {
+          "id": "74d81fcb-9e26-42c4-8158-fe249b99a40c",
+          "name": "euni",
+          "avatar": null
+        },
+        "text": "Got me in the friend zone,\nbut,\nI want you in my love zone.",
+        "length": 59,
+        "created_at": "2021-09-17 05:28"
+      },
+      "genre": {
+        "id": 5,
+        "name": "Роман"
+      },
+      "genre_id": 5,
+      "id": "b008f944-a10c-4d66-8ccc-7013ac114bb9",
+      "is_author": false,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "04348166-30e6-4df1-acb1-26370f46c671",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Lying in bed after a pleasant date, Noman thought to himself. Sometimes it takes time for things to change.  It is better to remain good friends than to try to play fake love. Noman decided not to rush and impose his feelings on Mirkha. He decided to be himself and let Mirkha do the same. At the same time a plan to conquer Mirkha's heart matured in his mind",
+        "length": 359,
+        "created_at": "2021-11-25 12:00"
+      },
+      "master": {
+        "id": "74d81fcb-9e26-42c4-8158-fe249b99a40c",
+        "name": "euni",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 2,
+        "name": "Стихи"
+      },
+      "narrative_type_id": 2,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "1.53",
+      "status_id": 2,
+      "steps": 6,
+      "tags": [],
+      "title": "Love Story",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 6
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-11-20 21:27",
+      "first_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "2e5664c9-1cf0-4e1a-9a4d-e633a6cc3be3",
+              "name": "SSV",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/j1IablEdBrzrFNFb9L5FQyNNciU7zwDU36PVQBeC.jpeg"
+            }
+          }
+        ],
+        "id": "dc07db9b-a233-48bf-924f-4f6f3823f14e",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Петрович сидел за столом и смотрел очередной выпуск никому ненужных новостей. Ароматный чай с бергамотом и молоком соблазнительно смотрел на него из кружки. Рядом с кружкой лежал ломоть хлеба изрядно намазанный маслом. Вкусную картину утреннего завтрака дополнял липовый мед в пиале - лакомство, которое приводило Петровича в неудержимый гастрономический экстаз, заставляя его после каждой съеденной ложки несколько раз облизывать ее и закатывать при этом глаза.",
+        "length": 462,
+        "created_at": "2021-11-20 21:33"
+      },
+      "genre": {
+        "id": 12,
+        "name": "Сатира"
+      },
+      "genre_id": 12,
+      "id": "54f16812-ec57-47f4-99b9-9e40ca6ad20b",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "6d857a94-31ba-4a49-9c9b-d0bf277e2017",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Дорога на ненавистную работу была не менее ненавистной. Ежедневные поездки  в общественном транспорте бок о бок с незнакомыми хмурыми людьми это еще то \"удовольствие\", после которого Петровичу по приезду на работу хотелось выпрыгнуть из одежды и принять душ. \nТем не менее, покорившись судьбе Петрович в очередной раз спустился в метро, зашел в вагон и к его счастью плюхнулся на свободное место.  По началу Петрович, просто сидел и осматривал окружающих, а потом намеревался прикорнуть, но его взгляд задержался на книге, которую   читала сидящая рядом с ним девушка лет 30. \nНазвание главы \"Ты стоишь больше\" магическим образом заставило  Петровича читать открытую страницу книги.",
+        "length": 682,
+        "created_at": "2021-11-25 11:00"
+      },
+      "master": {
+        "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+        "name": "MIRREX",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "1.04",
+      "status_id": 2,
+      "steps": 3,
+      "tags": [],
+      "title": "Липкие руки",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 4
+    },
+    {
+      "authors_count": 3,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-11-19 14:37",
+      "first_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "c4c9604a-95ba-4580-a5ec-fb3675545452",
+        "author": {
+          "id": "3f2fdcaf-d8d6-4cb9-9a56-f98fe095a227",
+          "name": "mgelnaw",
+          "avatar": null
+        },
+        "text": "William gritted his teeth and pushed as hard as he could. Yet despite his best efforts he was forced to give up and accept the the fact that the dragon had in deed gotten her head stuck in the elevator doors.",
+        "length": 208,
+        "created_at": "2021-11-19 14:37"
+      },
+      "genre": {
+        "id": 3,
+        "name": "Фэнтези"
+      },
+      "genre_id": 3,
+      "id": "2a7d187c-e75a-493d-9057-7f4b260f81c6",
+      "is_author": false,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "00abadce-54ac-4c2b-bf5d-9f42b4519f2e",
+        "author": {
+          "id": "d3f754cb-62c0-4504-a6ed-ebd32bdd4269",
+          "name": "Noorpur",
+          "avatar": null
+        },
+        "text": "William was terrorized, but he knew that Emerald was haughty and short-tempered, but she wasn't a cannibal... Yet. He didn't want to test her patience or temper. So, he explained with a sincerely apologetic tone,\"If you let go of me, I will make a phone call and get someone to deliver us some burger or pizza. That's how 'food' will be 'delivered' to us.\" \nEmerald pointedly bared her teeth even more, then slowly put William back on the floor. \n\"Thank you\". William stepped back towards the phone, not taking his eyes off Emerald, almost in deference to her merciful release.",
+        "length": 577,
+        "created_at": "2021-11-22 12:48"
+      },
+      "master": {
+        "id": "3f2fdcaf-d8d6-4cb9-9a56-f98fe095a227",
+        "name": "mgelnaw",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "3.28",
+      "status_id": 2,
+      "steps": 13,
+      "tags": [],
+      "title": "Elevator dragon",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 9
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-05-25 20:55",
+      "first_step": {
+        "own_rate": null,
+        "rate": 4,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "b8b1b834-ceb3-45f3-8f0f-807bbfba1920",
+              "name": "nik.veras",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/rO0uRs4MqwywIUU2DEDdWQJiqyZuXcJ42a9Hlj2z.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "d9252827-8437-4fc0-87d0-4b65e730b9da",
+              "name": "m.vasilyev",
+              "avatar": null
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "cd92229c-4814-44c0-8c9a-f5ea405244c8",
+              "name": "H8er",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/PJXgIj1FDzhGD5MScsOJkGUX252sIvXQfabxDoQe.jpeg"
+            }
+          }
+        ],
+        "id": "db1dbbb5-8c72-466c-a39b-d4ba6a3e2573",
+        "author": {
+          "id": "600bc8d5-3f49-4365-ae10-fa1325c2de10",
+          "name": "Sarife",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/szqjPpnVCzout3uAnSu3XuAGlAl2a3oNZyi3M5ua.jpeg"
+        },
+        "text": "1. Начнём с банального и всем известного - кофе в постель. В прямом смысле. Правда, это преступление перед лицом кофейного бога, но что поделать. Вставать как-то нужно.\nВажное примечание: для этого вам нужен активный жаворонок, который будет готов пожертвовать собой",
+        "length": 266,
+        "created_at": "2021-05-25 20:58"
+      },
+      "genre": {
+        "id": 15,
+        "name": "Драма"
+      },
+      "genre_id": 15,
+      "id": "f9f32874-0a32-4ecb-834c-3a095ec0dc0e",
+      "is_author": true,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 3,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "cd92229c-4814-44c0-8c9a-f5ea405244c8",
+              "name": "H8er",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/PJXgIj1FDzhGD5MScsOJkGUX252sIvXQfabxDoQe.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "b8b1b834-ceb3-45f3-8f0f-807bbfba1920",
+              "name": "nik.veras",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/rO0uRs4MqwywIUU2DEDdWQJiqyZuXcJ42a9Hlj2z.jpeg"
+            }
+          }
+        ],
+        "id": "147c9682-8874-47b2-9702-23cf2bbf542b",
+        "author": {
+          "id": "600bc8d5-3f49-4365-ae10-fa1325c2de10",
+          "name": "Sarife",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/szqjPpnVCzout3uAnSu3XuAGlAl2a3oNZyi3M5ua.jpeg"
+        },
+        "text": "19. Дети\nСовершенно любые, но гиперактивные, без телефона и мультиков. Поверьте, они вас быстро не только поднимут, но из дома выгонят",
+        "length": 134,
+        "created_at": "2021-10-28 10:52"
+      },
+      "master": {
+        "id": "600bc8d5-3f49-4365-ae10-fa1325c2de10",
+        "name": "Sarife",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/szqjPpnVCzout3uAnSu3XuAGlAl2a3oNZyi3M5ua.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "2.95",
+      "status_id": 2,
+      "steps": 20,
+      "tags": [],
+      "title": "30 способов встать утром без воскрешения, смс и регистрации",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 31
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-09-27 15:39",
+      "first_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "2e5664c9-1cf0-4e1a-9a4d-e633a6cc3be3",
+              "name": "SSV",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/j1IablEdBrzrFNFb9L5FQyNNciU7zwDU36PVQBeC.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "17404041-3a8b-4524-88e3-b18b6445b0d7",
+        "author": {
+          "id": "1b1a4536-10f1-4275-a91a-ba895c492998",
+          "name": "DD",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/yLuycX2KZDoKvn1ZXdxNXJZssndhpWlIr1crtgsp.jpeg"
+        },
+        "text": "Война пришла к ним на рассвете. Она сломала нос старшему брату и застрелила перегородившего проход отца. Все трое уже тогда знали, что в последний раз видят рыдающую мать и лежащего с дырой в голове на пороге квартиры отца. Они до последнего верили, что ужасы внешнего мира обойдут их стороной. Но в конце концов верить могли лишь в то, что оставшийся с матерью в квартире гвардеец не причинит ей вреда. Их забрали на рассвете, всех троих. Забрали на бойню.",
+        "length": 457,
+        "created_at": "2021-09-27 15:39"
+      },
+      "genre": {
+        "id": 7,
+        "name": "Триллер"
+      },
+      "genre_id": 7,
+      "id": "f05370c8-8c8c-45ac-802c-d2eb94ad53fb",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "6f81ce8c-7efc-4be8-8b8a-9afdbdae25a6",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Не страшна была сама бойня,  как подготовка к ней. Прежде чем облачить новобранцев в органические экзоскелеты новобранцы  проходили полную стерилизацию и только после этого вживлялись нейроимпланты для обеспечения срастания тела человека с органическим экзоскелетом. Только спустя несколько недель после адаптации мозга человека к новому телу получившийся биойд проходил интенсивную подготовку к боевым действиям. Как правило, биойды не возвращались из боя, так как их всегда бросали в самое пекло для обеспечения активного прорыва  боевых соединений противника.",
+        "length": 562,
+        "created_at": "2021-10-11 21:01"
+      },
+      "master": {
+        "id": "1b1a4536-10f1-4275-a91a-ba895c492998",
+        "name": "DD",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/yLuycX2KZDoKvn1ZXdxNXJZssndhpWlIr1crtgsp.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.62",
+      "status_id": 2,
+      "steps": 2,
+      "tags": [],
+      "title": "Война пришла...",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 2
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-07-09 21:05",
+      "first_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "2e5664c9-1cf0-4e1a-9a4d-e633a6cc3be3",
+              "name": "SSV",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/j1IablEdBrzrFNFb9L5FQyNNciU7zwDU36PVQBeC.jpeg"
+            }
+          }
+        ],
+        "id": "641d75e0-f11c-4a5b-8517-9cd0323453c3",
+        "author": {
+          "id": "937da168-7df6-4717-ae4b-01cce97233b6",
+          "name": "TallMSG",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/muXEUOMR2KHV2aFJPe8nqFOOXPGFJFAYWk8BJNeI.jpeg"
+        },
+        "text": "В деревне Дождики стояла жаркая солнечная погода. Максим Сергеев вместе со своим братом Михаилом меняли старый шифер на новую металлочерепицу на крыше старого отцовского дома. Вдруг знойную тишину деревенского лета, разбавляемую лишь кудахтаньем кур и отдалёнными резкими звуками лесопильного станка нарушил приближающийся звук мотора. Максим,  сидящий на коньке крыши, заметил въезжающий в деревню автобус. Через минуту  он доехал до центра депевни,  куда сходились все три улицы и остановился. Максим увидел что из автобуса начали выходить люди. Два человека  достали усилитель и подключили микрофон,  возле которого расположился пожилой упитанный мужчина с аккордеоном.",
+        "length": 672,
+        "created_at": "2021-07-09 21:33"
+      },
+      "genre": {
+        "id": 15,
+        "name": "Драма"
+      },
+      "genre_id": 15,
+      "id": "654e063a-ef75-4ad5-8a3c-8533075539e2",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "5ff30557-4293-41e1-8bf7-0c473243c86b",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "- Что еще за Халелуя! Эй, ты очкарик недоношенный, ты кого сейчас на Х..й послал?- завелся Максим, не церемонясь.\nМихаил  одернул Максима за руку и скзаал: \"Да, погоди ты. Опять заводишься с пол оборота.  Давай поглядим чего там дальше будет. Денег пока не требуют и уже хорошо\".\nТем временем фламингоподобный очкарик  прочувствовал негативный оклик Максима и сквозь очки оценивающе посмотрел на него.  Взял паузу, вздохнул  и в очередной раз поднял руку.\nВсе присутствующие затаили дыхание и вновь зазвучало \" Hallelujah!...\".\nДалее потекла мелодичная приятная музыка,  которая настолько ласкала слух, что никто не придавал значения тому, что песня поется на каком-то неизвестном им языке.",
+        "length": 690,
+        "created_at": "2021-10-06 20:30"
+      },
+      "master": {
+        "id": "937da168-7df6-4717-ae4b-01cce97233b6",
+        "name": "TallMSG",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/muXEUOMR2KHV2aFJPe8nqFOOXPGFJFAYWk8BJNeI.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "1.54",
+      "status_id": 2,
+      "steps": 5,
+      "tags": [],
+      "title": "Пилигримы дают отпор",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 6
+    },
+    {
+      "authors_count": 1,
+      "authorship_access": {
+        "id": 1,
+        "name": "Пишу один",
+        "description": "Начинайте писать и приглашайте соавторов в любое время, если будет необходимость"
+      },
+      "authorship_access_id": 1,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2021-10-02 19:39",
+      "first_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "984ede94-c6b7-47a6-a575-ad010250da14",
+        "author": {
+          "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+          "name": "suzmiu",
+          "avatar": null
+        },
+        "text": "Preface\nThis is a dark, and cold night, with bright street lights and empty streets. The damp socks and underwear were frozen, clipped by cloth clippers. Their drying process was called sublimation, a physics terminology she learned in class today. She stood on the small balcony. Tears welled up and silently traveled down her cheeks. She heard laughs and mockeries behind the window, where the metallic heating supply resided. She sighed — she couldn't do anything with the balcony door locked from inside. The scene, desperation, coldness has forever imprinted inside her mind. Someday or one day, these cruel, symbolic nightmares would unhide from the corners.",
+        "length": 664,
+        "created_at": "2021-10-02 20:00"
+      },
+      "genre": {
+        "id": 15,
+        "name": "Драма"
+      },
+      "genre_id": 15,
+      "id": "02f44cda-0ed7-4a26-a9a6-2b0830288c00",
+      "is_author": false,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "984ede94-c6b7-47a6-a575-ad010250da14",
+        "author": {
+          "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+          "name": "suzmiu",
+          "avatar": null
+        },
+        "text": "Preface\nThis is a dark, and cold night, with bright street lights and empty streets. The damp socks and underwear were frozen, clipped by cloth clippers. Their drying process was called sublimation, a physics terminology she learned in class today. She stood on the small balcony. Tears welled up and silently traveled down her cheeks. She heard laughs and mockeries behind the window, where the metallic heating supply resided. She sighed — she couldn't do anything with the balcony door locked from inside. The scene, desperation, coldness has forever imprinted inside her mind. Someday or one day, these cruel, symbolic nightmares would unhide from the corners.",
+        "length": 664,
+        "created_at": "2021-10-02 20:00"
+      },
+      "master": {
+        "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+        "name": "suzmiu",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.42",
+      "status_id": 2,
+      "steps": 1,
+      "tags": [],
+      "title": "Nightmare",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 1
+    },
+    {
+      "authors_count": 1,
+      "authorship_access": {
+        "id": 1,
+        "name": "Пишу один",
+        "description": "Начинайте писать и приглашайте соавторов в любое время, если будет необходимость"
+      },
+      "authorship_access_id": 1,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2021-09-11 05:50",
+      "first_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "f8329712-8e06-4f4c-beac-27c0528b1c02",
+        "author": {
+          "id": "48f52f56-30ac-46eb-a605-d1b44df932ff",
+          "name": "Losi",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/8nFwAlhjbLq3oQeoKfcg8ryKRh8arRyee7vn7nME.jpeg"
+        },
+        "text": "В университете преподаватель философии дала мне отличный урок на всю жизнь.\n\nВам знаком \"священный трепет\", холодок по холке, когда ты, как вся толпа, готов идти за своим кумиром?\n\nЭто - шерсть приматов поднимается перед альфа-самцом. Атавизм.\n\nНеважно, рок-звезда это или политический деятель.\n\nБыло задание - изучить любую не общепринятую философскую теорию и доказать ее перед группой.\n\nЗа это освобождали от занятий по философии на 2 недели. Я выступать любил, а учиться не очень - вызвался первым.\n\nВыбрал теорию про \"священный трепет\". Он мне хорошо знаком, поэтому было несложно выступить отлично.",
+        "length": 604,
+        "created_at": "2021-09-11 05:54"
+      },
+      "genre": {
+        "id": 17,
+        "name": "Моя история"
+      },
+      "genre_id": 17,
+      "id": "920dfbfc-f97c-4908-b42c-2f86c10b0edf",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "c38b3e6b-1ab1-4f48-9605-fd28b03e6cfa",
+        "author": {
+          "id": "48f52f56-30ac-46eb-a605-d1b44df932ff",
+          "name": "Losi",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/8nFwAlhjbLq3oQeoKfcg8ryKRh8arRyee7vn7nME.jpeg"
+        },
+        "text": "Я очень убедительно ответил на редкие вопросы. И группа без единого исключения была уверена по завершению выступления, что социальное поведение людей определяется нашим происхождением от приматов. :)\n\n\"Спасибо, Александр, вы выступили отлично, 4 (четыре)\"\n\n\"Почему?!\" ⁉️\n\n\"Потому что все надо подвергать разумному сомнению, даже если сам чувствуешь холодок на холке!\" 🙊",
+        "length": 369,
+        "created_at": "2021-09-11 05:54"
+      },
+      "master": {
+        "id": "48f52f56-30ac-46eb-a605-d1b44df932ff",
+        "name": "Losi",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/8nFwAlhjbLq3oQeoKfcg8ryKRh8arRyee7vn7nME.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.56",
+      "status_id": 3,
+      "steps": 2,
+      "tags": [],
+      "title": "Священный трепет",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 1
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-08-28 02:23",
+      "first_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+              "name": "suzmiu",
+              "avatar": null
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "2302381d-9570-4ac8-ac6f-c3a16a411fc6",
+        "author": {
+          "id": "2250c517-73a9-4df7-8dd2-b55b0aaf4f1a",
+          "name": "Lizala",
+          "avatar": null
+        },
+        "text": "After getting divorced with Jenny, Harry decided to sent Albus to a Muggle  elementary school. Apparently Harry does not have time to look after his younger kid all day round while working as a Auror, and seems like wizards are not into holding schools for these little monsters. While he carefully mentioned to Albus that no magic should be used with muggle kids, he did not foresee the appearance of Scorpius -- Scorpius Malfoy.",
+        "length": 430,
+        "created_at": "2021-08-28 02:32"
+      },
+      "genre": {
+        "id": 14,
+        "name": "Фанфик"
+      },
+      "genre_id": 14,
+      "id": "8ba5322b-6329-4da0-8467-2d712fd1bdda",
+      "is_author": false,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "2d427230-a7f7-44cc-bc1e-aafd8fdf30fd",
+        "author": {
+          "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+          "name": "suzmiu",
+          "avatar": null
+        },
+        "text": "Before continue: It’s Ginny instead of Jenny. Past tense is common among fan fiction.\n\nScorpius Malfoy inevitably inherited the hideous appearance of his father Draco and grandfather Lucius. Fortunately, his mother Astoria Malfoy held more from the ingrained pureblood ideals. Thus, it’s such a relief to the Wizard World that Scorpius was none of the kind similar to his grandfather Lucius Malfoy. The little Malfoy didn’t find the muggle world appalling. Instead, he pleaded with his parents for sending him to a muggle school. On the first day of school, the elder Malfoy’s face looked worse than chugging the Polyjuice Potion, while the younger couldn’t hold his excitement for a new adventure.",
+        "length": 698,
+        "created_at": "2021-09-10 21:13"
+      },
+      "master": {
+        "id": "2250c517-73a9-4df7-8dd2-b55b0aaf4f1a",
+        "name": "Lizala",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.77",
+      "status_id": 2,
+      "steps": 2,
+      "tags": [],
+      "title": "Why school",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 3
+    },
+    {
+      "authors_count": 1,
+      "authorship_access": {
+        "id": 1,
+        "name": "Пишу один",
+        "description": "Начинайте писать и приглашайте соавторов в любое время, если будет необходимость"
+      },
+      "authorship_access_id": 1,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2021-09-09 10:07",
+      "first_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "cd6f776b-383a-43d0-bfcb-07bffedcfa08",
+        "author": {
+          "id": "7a55fd85-d0c1-4980-8d2d-d497d23b690b",
+          "name": "Sladkiepalchiki",
+          "avatar": null
+        },
+        "text": "Он никогда не видел таких глубоких синих глаз.\n Он проучился с ней пять лет. Потом успел её забыть, как и всех кто не имел для него никакого значения. Не то чтобы она была не красивой, просто у неё всегда кто-то был. Она рано вышла замуж, потом успела развестись, поймав супруга на измене. \nУ него тоже уже была своя семья, ребенок. \nНо что-то её заставила ему написать. Те банальные: \"привет, как дела? Может выпьем чашку кофе? \"\nС удовольствием он согласился. Почему бы не пообщаться, не узнать как дела, промыть кости общих знакомых. \nВстреча в кафе прошла быстро и не о чем. Он вежливо предложил подвезти её до дома. \n-Остановись у края дома, посидим ещё пару минут.- предложила она.",
+        "length": 687,
+        "created_at": "2021-09-09 10:20"
+      },
+      "genre": {
+        "id": 17,
+        "name": "Моя история"
+      },
+      "genre_id": 17,
+      "id": "1442596a-31b0-48ed-a7a7-3cec7d53a56a",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "51b6a4f0-5f13-4417-acad-e8b6256c2f29",
+        "author": {
+          "id": "7a55fd85-d0c1-4980-8d2d-d497d23b690b",
+          "name": "Sladkiepalchiki",
+          "avatar": null
+        },
+        "text": "Тогда он каким-то необычным образом осознал, что в мире все устроено иначе чем он представлял. И чтобы не происходило, он все ещё помнит эту встречу. Он и не знал, что от девушки, за воротами неприкосновенности, может исходить столько нежности. Что губы могут быть сладкими, кожа нежной как бархат. И что минуты могут остановиться. \nВ тот вечер их общие минуты остановились навсегда. Они ещё много раз встречались как друзья, вели беседы, но не более. У него продолжилась своя жизнь, у неё своя. И нет в природе того судьи который мог бы рассудить их судьбы иначе. \nИ я не знаю, утонет ли он снова когда-нибудь в её глаз, сможет ли он снова вкусить сладких вкус её губ, прикоснуться к её нежности...",
+        "length": 699,
+        "created_at": "2021-09-09 10:34"
+      },
+      "master": {
+        "id": "7a55fd85-d0c1-4980-8d2d-d497d23b690b",
+        "name": "Sladkiepalchiki",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "1.16",
+      "status_id": 2,
+      "steps": 3,
+      "tags": [],
+      "title": "Опавшая листва вдоль тротуаров",
+      "description": null,
+      "cover": "https://firebasestorage.googleapis.com/v0/b/lets-tell.appspot.com/o/images%2F1f2dfa18-3f02-4f54-8f37-249f1608ea21.jpg?alt=media&token=ff6602fd-a7e3-42b4-a184-8aacd58de830",
+      "cover_full": "https://firebasestorage.googleapis.com/v0/b/lets-tell.appspot.com/o/images%2Ffull_covers%2F1442596a-31b0-48ed-a7a7-3cec7d53a56a.jpg?alt=media&token=7101daae-6aa2-42cf-ac2e-ac08f8cbbc36",
+      "rate": 3
+    },
+    {
+      "authors_count": 3,
+      "authorship_access": {
+        "id": 2,
+        "name": "Приватная история",
+        "description": "Приглашайте друзей, семью, коллег и пишите вместе"
+      },
+      "authorship_access_id": 2,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2020-10-28 19:25",
+      "first_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "3bae47a8-b4dd-4d54-9066-d4cbb75d992e",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Любая история имеет начало и конец. Но наша история не совсем обычная, потому что происходила она по большей части в Индии  - удивительной  многогранной стране в необъятно богатой духовной историей и наследием. Поэтому  в нашей истории нет начала и конца, а есть только середина.\nС этой середины пожалуй и начнем.\nВ один погожий летний денек Наиля сидела  дома перед компьютером  и бесцельно открывала одну за другой  страницы  в интернете.\nНевольно взгляд Наили зацепился за  одну фразу на баннере.",
+        "length": 499,
+        "created_at": "2020-10-28 20:11"
+      },
+      "genre": {
+        "id": 6,
+        "name": "Приключения"
+      },
+      "genre_id": 6,
+      "id": "4868ac46-4989-4392-b940-0890b13b6cd8",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "6ff9fa3b-b192-4e1d-bf14-f9a6a65a98b9",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Стася плюхнулась на стул и  протяжно вздохнула.\n- Ой, ребятки. Что-то я так затрахалась .  Не знаю как вы, но я прямо готова сорваться с места и куда-то  в теплые края, чтобы там забыться от всего и раствориться в атмосфере полного безнравственного ничегонеделания и  тотального релакса.\n- Читаешь наши мысли. Мы как раз обсуждаем варианты куда бы нам сорваться. Есть идеи? - улыбчиво сказала Наиля.",
+        "length": 399,
+        "created_at": "2021-08-31 20:42"
+      },
+      "master": {
+        "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+        "name": "MIRREX",
+        "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "3.04",
+      "status_id": 2,
+      "steps": 11,
+      "tags": [],
+      "title": "Индиюль. Начало",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 3
+    },
+    {
+      "authors_count": 3,
+      "authorship_access": {
+        "id": 2,
+        "name": "Приватная история",
+        "description": "Приглашайте друзей, семью, коллег и пишите вместе"
+      },
+      "authorship_access_id": 2,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2020-08-21 06:10",
+      "first_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "600bc8d5-3f49-4365-ae10-fa1325c2de10",
+              "name": "Sarife",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/szqjPpnVCzout3uAnSu3XuAGlAl2a3oNZyi3M5ua.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": null
+          }
+        ],
+        "id": "b6f91181-3aa6-4679-b113-d1debce40046",
+        "author": {
+          "id": "6a05a453-f472-4e72-a0fd-d8d8419af4b5",
+          "name": "anhell",
+          "avatar": null
+        },
+        "text": "- Это какая-то ошибка, - Рита растерянно вертела в руках конверт черной бумаги, украшенный золотыми вензелями. Приглашение на карнавальную ночь в особняк на Тверской? Да, имя и адрес на конверте ее, но кто станет приглашать на роскошный, закрытый бал скромного секретаря?\n- Нет, все верно, это вам. И это тоже. - Курьер вручил ей большую коробку, перехваченную угольной лентой.",
+        "length": 377,
+        "created_at": "2020-08-21 06:18"
+      },
+      "genre": {
+        "id": 6,
+        "name": "Приключения"
+      },
+      "genre_id": 6,
+      "id": "1f2dfa18-3f02-4f54-8f37-249f1608ea21",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 0,
+        "rates": [],
+        "id": "090fa910-2479-4024-a220-47141dec8a1a",
+        "author": {
+          "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+          "name": "MIRREX",
+          "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+        },
+        "text": "Буквально с первого глотка Рите стало немыслемо легко и разговор с незнакомцем заладился сам с собой. Не смотря на то, что незнакомца она видела впервые ей почему-то казалось, что нашла родственную душу. Так непринужденно и весело ей давно не было. Слово за словом, коктейль за коктейлем и Рита уже потерела чувство реальности, времени и пространства.  Она знала одно - она счастлива и так хорошо ей не было уже очень давно. Судя по всему, незнакомец тоже был беспамятно счастлив и расслаблен.",
+        "length": 493,
+        "created_at": "2021-08-29 20:45"
+      },
+      "master": {
+        "id": "6a05a453-f472-4e72-a0fd-d8d8419af4b5",
+        "name": "anhell",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "4.73",
+      "status_id": 2,
+      "steps": 21,
+      "tags": [],
+      "title": "Карнавальная ночь",
+      "description": null,
+      "cover": "https://firebasestorage.googleapis.com/v0/b/lets-tell.appspot.com/o/images%2F1f2dfa18-3f02-4f54-8f37-249f1608ea21.jpeg?alt=media&token=5c8a4728-23fe-4bbd-8cf4-2e6ed51e1a91",
+      "cover_full": "https://firebasestorage.googleapis.com/v0/b/lets-tell.appspot.com/o/images%2Ffull_covers%2F1f2dfa18-3f02-4f54-8f37-249f1608ea21.jpeg?alt=media&token=628c67e8-5590-4052-9690-54c6849c12c1",
+      "rate": 6
+    },
+    {
+      "authors_count": 3,
+      "authorship_access": {
+        "id": 2,
+        "name": "Приватная история",
+        "description": "Приглашайте друзей, семью, коллег и пишите вместе"
+      },
+      "authorship_access_id": 2,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2021-05-28 05:20",
+      "first_step": {
+        "own_rate": 1,
+        "rate": 3,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "d3e233d7-3786-4595-af87-9e211356bcf6",
+              "name": "vados665",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/GyuYT79wQBtbVQfZPdcM6n92JGZRy2ugMelaVF50.png"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "30cfa175-b678-4c8b-b428-ed4827f90087",
+              "name": "Jar",
+              "avatar": null
+            }
+          }
+        ],
+        "id": "4c503778-14ea-4b62-84c7-78f0b278345c",
+        "author": {
+          "id": "30cfa175-b678-4c8b-b428-ed4827f90087",
+          "name": "Jar",
+          "avatar": null
+        },
+        "text": "Рабочий день, а точнее вечер, близился к своему завершению, однако один дедлайн не давал нашему герою успокоиться, закрыть вкладку браузера и выключить компьютер. К тому же герою было непонятно, как это возможно, что наиболее частотная цифра, с которой начинается число длины реки, высоты самых высоких зданий в мире, числа последовательности значений в формуле начисления процентов, а также других чисел, увеличивающихся пропорционально. Все дело в законе Бендорфа, то есть правила первой цифры, показывающего частоту появления первой цифры в данных из реальной жизни. Наш герой человек любопытный, поэтому захотел проверить работает ли закон и провел около часа, изучая разные примеры.",
+        "length": 687,
+        "created_at": "2021-05-28 05:36"
+      },
+      "genre": {
+        "id": 6,
+        "name": "Приключения"
+      },
+      "genre_id": 6,
+      "id": "72751034-bd4f-4aa7-ac80-549962f9f090",
+      "is_author": false,
+      "language": {
+        "id": 1,
+        "name": "Русский",
+        "default_name": "Русский"
+      },
+      "language_id": 1,
+      "last_step": {
+        "own_rate": null,
+        "rate": 1,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          }
+        ],
+        "id": "31cf9896-c272-4268-9c19-4779c5e8f10d",
+        "author": {
+          "id": "30cfa175-b678-4c8b-b428-ed4827f90087",
+          "name": "Jar",
+          "avatar": null
+        },
+        "text": "«Бриджит, это удивительно, что мы с вами сегодня 2 раза встретились!» - сказал наш герой. «Да, Уилл, это правда удивительно!» - ответила Бриджит. «Куда вы направляетесь?» - добавила она. «Я собирался навестить еще одного друга, который живет на Палм стрит. Это в южной части города. А вам в какую сторону?» - сказал наш герой. «Тут, видимо, наши дороги на сегодня расходятся. Я собираюсь уезжать в соседний город. Тоже к друзьям» - промолвила Бриджит. Бриджит и Уилл еще немного говорили о том, что происходило в магазине и о том, что было бы здорово увидеться вновь за чашечкой кофе. Затем они обменялись номерами телефонов, попрощались и пошли каждый в свою сторону.",
+        "length": 668,
+        "created_at": "2021-08-28 05:57"
+      },
+      "master": {
+        "id": "30cfa175-b678-4c8b-b428-ed4827f90087",
+        "name": "Jar",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "3.91",
+      "status_id": 2,
+      "steps": 12,
+      "tags": [],
+      "title": "Неожиданные открытия",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 26
+    },
+    {
+      "authors_count": 1,
+      "authorship_access": {
+        "id": 2,
+        "name": "Приватная история",
+        "description": "Приглашайте друзей, семью, коллег и пишите вместе"
+      },
+      "authorship_access_id": 2,
+      "available_to_write": false,
+      "censorship": false,
+      "created_at": "2021-08-28 01:13",
+      "first_step": {
+        "own_rate": null,
+        "rate": 3,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+              "name": "suzmiu",
+              "avatar": null
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "a819da4e-6fa2-48c0-9049-ab601aec0fbf",
+              "name": "svmnikhil",
+              "avatar": null
+            }
+          }
+        ],
+        "id": "de89b0ad-0ad9-4496-9cd9-973bfc37aa71",
+        "author": {
+          "id": "bbb64e95-7a24-43e8-a1fd-79b266f997e2",
+          "name": "Q",
+          "avatar": null
+        },
+        "text": "I wake up from the toast,\ndive in the butter\ngo to somewhere exciting.",
+        "length": 70,
+        "created_at": "2021-08-28 01:18"
+      },
+      "genre": {
+        "id": 6,
+        "name": "Приключения"
+      },
+      "genre_id": 6,
+      "id": "c49c3a20-178e-444c-8e70-da0ac17f7ceb",
+      "is_author": false,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 3,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+              "name": "suzmiu",
+              "avatar": null
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "a819da4e-6fa2-48c0-9049-ab601aec0fbf",
+              "name": "svmnikhil",
+              "avatar": null
+            }
+          }
+        ],
+        "id": "de89b0ad-0ad9-4496-9cd9-973bfc37aa71",
+        "author": {
+          "id": "bbb64e95-7a24-43e8-a1fd-79b266f997e2",
+          "name": "Q",
+          "avatar": null
+        },
+        "text": "I wake up from the toast,\ndive in the butter\ngo to somewhere exciting.",
+        "length": 70,
+        "created_at": "2021-08-28 01:18"
+      },
+      "master": {
+        "id": "bbb64e95-7a24-43e8-a1fd-79b266f997e2",
+        "name": "Q",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.06",
+      "status_id": 2,
+      "steps": 1,
+      "tags": [],
+      "title": "Tasty bready",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 3
+    },
+    {
+      "authors_count": 2,
+      "authorship_access": {
+        "id": 3,
+        "name": "Открытая история",
+        "description": "Любой может присоединиться. Приглашение не требуется"
+      },
+      "authorship_access_id": 3,
+      "available_to_write": true,
+      "censorship": false,
+      "created_at": "2021-06-09 12:56",
+      "first_step": {
+        "own_rate": null,
+        "rate": 3,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "2e5664c9-1cf0-4e1a-9a4d-e633a6cc3be3",
+              "name": "SSV",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/j1IablEdBrzrFNFb9L5FQyNNciU7zwDU36PVQBeC.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "b8b1b834-ceb3-45f3-8f0f-807bbfba1920",
+              "name": "nik.veras",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/rO0uRs4MqwywIUU2DEDdWQJiqyZuXcJ42a9Hlj2z.jpeg"
+            }
+          }
+        ],
+        "id": "7c740881-d447-4b90-856b-49002c6df034",
+        "author": {
+          "id": "ebeed9bf-3b0a-4dbd-ad55-1ce14609b991",
+          "name": "Alexey David",
+          "avatar": null
+        },
+        "text": "I started coding when I was 28 years old, I chooses IOS development, because I already had an iPhone and a Mac, I like design of their interfaces, and then I had no idea what it really was like to be a programmer!\nBook, videos in the internet, some chats, groups in social sites and messengers didn’t really give a sensation of flow, which I needed for more easy mastering of the material.\nAnd after I realized this, I began to really think about how to pump my skills, that's where it all started ...",
+        "length": 501,
+        "created_at": "2021-06-09 13:11"
+      },
+      "genre": {
+        "id": 10,
+        "name": "Научная фантастика"
+      },
+      "genre_id": 10,
+      "id": "eda5cadb-0a9a-4fd9-8482-3f7f09c27756",
+      "is_author": true,
+      "language": {
+        "id": 2,
+        "name": "English",
+        "default_name": "English"
+      },
+      "language_id": 2,
+      "last_step": {
+        "own_rate": null,
+        "rate": 2,
+        "rates": [
+          {
+            "rate": 1,
+            "user": {
+              "id": "f92edc6f-7d5c-45bb-828e-2ea8b5b00c4b",
+              "name": "MIRREX",
+              "avatar": "https://storage.googleapis.com/letstell-c4824.appspot.com/avatars/WCAJcSovadDHfiw9FIe7ZFcuJI0dCVYsURjYBwAs.jpeg"
+            }
+          },
+          {
+            "rate": 1,
+            "user": {
+              "id": "2250c517-73a9-4df7-8dd2-b55b0aaf4f1a",
+              "name": "Lizala",
+              "avatar": null
+            }
+          }
+        ],
+        "id": "94a5c7f6-280e-4d84-b66a-16ae7c483acf",
+        "author": {
+          "id": "44f86ab3-946a-4663-9e94-ecd26105f7b1",
+          "name": "suzmiu",
+          "avatar": null
+        },
+        "text": "So I bought a ton of books to learn software programming — iOS development. But I was particularly troubled by the software. To be honest, the learning process was rough, not because I was bad at programming but the coding environment called Xcode was truly old, slow, and unwieldy. From time to time, I wondered why Apple, a company worth trillions of dollars, couldn't get its IDE fixed. \nOne day, after another fail build, I couldn't contain my fury anymore. I wrote a long post ranting about Xcode. Because I was too tired, I fell asleep. In the dream, I saw a human-shaped figure offering a hand to me: \"Well, do you wanna overthrow Xcode?\"",
+        "length": 645,
+        "created_at": "2021-08-25 17:46"
+      },
+      "master": {
+        "id": "ebeed9bf-3b0a-4dbd-ad55-1ce14609b991",
+        "name": "Alexey David",
+        "avatar": null
+      },
+      "narrative_type": {
+        "id": 1,
+        "name": "Проза"
+      },
+      "narrative_type_id": 1,
+      "read_access": {
+        "id": 1,
+        "name": "Открытая история",
+        "description": "Любой может читать историю"
+      },
+      "read_access_id": 1,
+      "read_duration": "0.85",
+      "status_id": 2,
+      "steps": 2,
+      "tags": [],
+      "title": "Title",
+      "description": null,
+      "cover": null,
+      "cover_full": null,
+      "rate": 5
+    }
+  ],
+  "links": {
+    "first": "http://lets-tell.herokuapp.com/api/v1/feed?page=1",
+    "last": "http://lets-tell.herokuapp.com/api/v1/feed?page=5",
+    "prev": null,
+    "next": "http://lets-tell.herokuapp.com/api/v1/feed?page=2"
+  },
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 5,
+    "path": "http://lets-tell.herokuapp.com/api/v1/feed",
+    "per_page": 15,
+    "to": 15,
+    "total": 69
+  },
+  "status": "ok"
+}
