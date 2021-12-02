@@ -7,12 +7,12 @@
 * [Swinject](https://github.com/Swinject/Swinject) - Для управлением зависимостей DI 
 * CleanSwift в качестве архитектуры
 * SwiftUI в качестве фреймворка для построения интерфейса
+* Realm для хранения данных
 
 ### Для коректного запуска тестов вам нужно в файле TestHelpers/AuthHelper ввести данные своего пользователя
 
 ## Screenshots
-![Auth](https://github.com/chernyshevpavel/LetsTell/raw/main/screenshots/auth.png)
 ![AuthWithKeyBoard](https://github.com/chernyshevpavel/LetsTell/raw/main/screenshots/authWithKeyboard.png)
-![Feed](https://github.com/chernyshevpavel/LetsTell/raw/main/screenshots/feed.png)
+![Feed](https://github.com/chernyshevpavel/LetsTell/raw/main/screenshots/feed-with-img-and-code.png)
 ![Filter](https://github.com/chernyshevpavel/LetsTell/raw/main/screenshots/filter.png)
 
